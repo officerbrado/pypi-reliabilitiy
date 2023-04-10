@@ -1,0 +1,5 @@
+Flask
+build
+wheel==0.30.0
+numpy
+tensorflow==2.11.0
